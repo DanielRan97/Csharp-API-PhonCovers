@@ -1,0 +1,28 @@
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.deps.json
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.runtimeconfig.json
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.runtimeconfig.dev.json
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.dll
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.pdb
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.RazorAssemblyInfo.cache
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.RazorAssemblyInfo.cs
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.AssemblyInfo.cs
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.RazorTargetAssemblyInfo.cache
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.dll
+C:\Users\danie\source\repos\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.pdb
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.deps.json
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.runtimeconfig.json
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.dll
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\bin\Debug\netcoreapp2.1\PhoneCover.pdb
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.RazorAssemblyInfo.cache
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.RazorAssemblyInfo.cs
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.AssemblyInfo.cs
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.RazorTargetAssemblyInfo.cache
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.dll
+C:\Users\danie\Desktop\Full Stack\Phone Cover\server\PhoneCover\PhoneCover\obj\Debug\netcoreapp2.1\PhoneCover.pdb
